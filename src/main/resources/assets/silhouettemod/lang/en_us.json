@@ -1,0 +1,6 @@
+{
+  "modmenu.nameTranslation.silhouettemod": "SilhouetteMod",
+  "commands.silhouettemod.silhouette.add": "Silhouette added/updated: %s rgb(%s, %s, %s)",
+  "commands.silhouettemod.silhouette.remove": "Silhouette removed: %s",
+  "commands.silhouettemod.silhouette.clear": "Cleared %s silhouette target(s)."
+}

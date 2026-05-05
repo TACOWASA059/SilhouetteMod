@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.github.tacowasa059.silhouettemod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "silhouettemod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "LivingEntityRendererMixin",
+    "PlayerRendererMixin",
+    "FiguraAvatarRendererMixin",
+    "FiguraRenderTypesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

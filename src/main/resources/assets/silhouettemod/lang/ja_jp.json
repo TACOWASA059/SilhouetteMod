@@ -1,0 +1,6 @@
+{
+  "modmenu.nameTranslation.silhouettemod": "SilhouetteMod",
+  "commands.silhouettemod.silhouette.add": "シルエットを追加/更新しました: %s 件 rgb(%s, %s, %s)",
+  "commands.silhouettemod.silhouette.remove": "シルエットを解除しました: %s 件",
+  "commands.silhouettemod.silhouette.clear": "シルエット対象を %s 件クリアしました。"
+}
