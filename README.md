@@ -66,5 +66,4 @@
 ## Optional Dependencies
 
 - [Figura](https://github.com/FiguraMC/Figura) - 任意依存です。導入されている場合、対象プレイヤーの Figura アバターにもシルエット描画を適用します。
-  - License: [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) (`Polyform-Noncommercial-1.0.0` in Figura 0.1.5 metadata).
-  - `libs/` の Figura jar は開発環境の `runClient` 確認用です。SilhouetteMod の生成 jar には同梱しません。
+  - License: PolyForm Noncommercial License 1.0.0 
